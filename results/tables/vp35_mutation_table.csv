@@ -1,0 +1,5 @@
+position,reference_aa,observed_aa,mutation,record_count,frequency
+12,A,V,A12V,93,0.845455
+41,S,N,S41N,1,0.009091
+68,T,M,T68M,93,0.845455
+204,N,D,N204D,107,0.972727
