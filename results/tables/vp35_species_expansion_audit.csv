@@ -1,0 +1,7 @@
+species,species_label,protein_fasta,metadata_csv,coding_fasta,raw_protein_records,vp35_header_records,filtered_complete_vp35_records,unique_complete_vp35_sequences,metadata_rows,vp35_metadata_rows_in_length_window,filtered_metadata_rows,metadata_only_vp35_rows,protein_only_vp35_records,too_short_records,too_long_records,quality_label_records,stop_codon_records,unknown_amino_acid_records
+zaire,Zaire ebolavirus,data/raw/zaire/raw_vp35_sequences.fasta,data/raw/zaire/raw_vp35_metadata.csv,data/raw/zaire/raw_ebola_coding_region_sequences.fasta,1008,110,110,4,1010,111,110,1,0,0,0,0,0,0
+sudan,Sudan ebolavirus,data/raw/sudan/raw_protein_sequences.fasta,data/raw/sudan/raw_metadata.csv,data/raw/sudan/raw_coding_regions.fasta,1316,13,13,6,1316,13,13,0,0,0,0,0,0,0
+bundibugyo,Bundibugyo ebolavirus,data/raw/bundibugyo/raw_protein_sequences.fasta,data/raw/bundibugyo/raw_metadata.csv,data/raw/bundibugyo/raw_coding_regions.fasta,280,7,7,2,280,7,7,0,0,0,0,0,0,0
+tai_forest,Tai Forest ebolavirus,data/raw/tai_forest/raw_protein_sequences.fasta,data/raw/tai_forest/raw_metadata.csv,data/raw/tai_forest/raw_coding_regions.fasta,42,2,2,1,42,2,2,0,0,0,0,0,0,0
+reston,Reston ebolavirus,data/raw/reston/raw_protein_sequences.fasta,data/raw/reston/raw_metadata.csv,data/raw/reston/raw_coding_regions.fasta,239,23,22,6,239,23,22,1,0,0,0,0,0,1
+bombali,Bombali ebolavirus,data/raw/bombali/raw_protein_sequences.fasta,data/raw/bombali/raw_metadata.csv,data/raw/bombali/raw_coding_regions.fasta,94,3,3,1,94,3,3,0,0,0,0,0,0,0
